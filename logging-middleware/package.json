@@ -1,0 +1,24 @@
+{
+  "name": "@campus-evaluation/logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable logging middleware for Campus Evaluation services",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "examples"
+  ],
+  "scripts": {
+    "example": "node ./examples/test-log.js"
+  },
+  "keywords": [
+    "logging",
+    "middleware",
+    "campus-evaluation"
+  ],
+  "license": "GPL-3.0-only"
+}
