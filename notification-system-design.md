@@ -23,7 +23,7 @@ Placement > Result > Event
 
 ### Top 10 Priority Notifications
 
-![Top 10 Priority Notifications](./screenshots/top10-all.png)
+![Top 10 Priority Notifications](./screenshots/top 10 all.png)
 
 ### Placement Notifications
 
